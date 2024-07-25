@@ -7,6 +7,7 @@ DefT has two main applications:
 2. **deft_realtime_app.py**: A real-time defect inspection tool using video streams.
 
 DefT also includes a colab notebook to generate ready-to-use dataset to fine-tune LLM on any given context:
+
 **Synthetic data generation pipeline**:
 [Synthetic Data Generation Pipeline](https://github.com/turna1/DefectTwin/blob/main/defect_texture__fine_tunellm_with_synthetic_data.ipynb)
 ## Setup and Usage on Hugging Face
