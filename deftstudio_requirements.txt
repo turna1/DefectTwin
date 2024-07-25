@@ -1,0 +1,14 @@
+gradio==4.29.0
+replicate
+pillow
+numpy
+numpy_stl
+opencv_python==4.9.0.80
+timm==0.9.16
+torch
+openai==0.28
+pygltflib
+trimesh
+pillow
+scipy
+networkx
