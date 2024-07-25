@@ -1,0 +1,11 @@
+gradio
+video2images
+tqdm
+imageio
+opencv-python-headless
+imageio-ffmpeg
+openai==0.28
+moviepy
+google.generativeai
+requests
+tensorflow
