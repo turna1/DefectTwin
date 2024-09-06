@@ -39,6 +39,12 @@ DefT also includes a colab notebook to generate ready-to-use dataset to fine-tun
 
 The datasets used to build DefT can be found [here](https://github.com/turna1/GenAI-For-Goods/tree/DATASETS-TO-BUILD-RAG-LLM-RAILWAY-DEFECT).
 
+## Tools
+[LLM-based Railway Defect Sample Generator](https://huggingface.co/spaces/Rahatara/trainingDefectGgenerator)
+[RailDefectInspector](https://huggingface.co/spaces/Rahatara/RailDefectInspector)
+[Defect Studio](https://huggingface.co/spaces/Rahatara/LLM_Defect_Analyst)
+
+
 ## Contact
 
 If you are not a developer and would like to request a demo, please contact: [rferd068@uottawa.ca](mailto:rferd068@uottawa.ca).
