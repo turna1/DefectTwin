@@ -53,7 +53,11 @@ If you are not a developer and would like to request a demo, please contact: [rf
 
 For academic or research purposes, please cite the following paper:
 
-### DefectTwin: [When LLM Meets Digital Twin for Railway Defect Inspection] (https://arxiv.org/abs/2409.06725)
+###
+
+
+
+[DefectTwin: When LLM Meets Digital Twin for Railway Defect Inspection] (https://arxiv.org/abs/2409.06725)
 Ferdousi, Rahatara, et al. "DefectTwin: When LLM Meets Digital Twin for Railway Defect Inspection." arXiv preprint arXiv:2409.06725 (2024).
 
 
