@@ -55,9 +55,14 @@ If you are not a developer and would like to request a demo, please contact: [rf
 
 For academic or research purposes, please cite the following paper:
 
-### DefectTwin: LLM-Driven Digital Twins in Consumer Electronics for Visual Railway Defect Inspection [Link Soon]
+### DefectTwin: [When LLM Meets Digital Twin for Railway Defect Inspection] (https://arxiv.org/abs/2409.06725)
+Ferdousi, Rahatara, et al. "DefectTwin: When LLM Meets Digital Twin for Railway Defect Inspection." arXiv preprint arXiv:2409.06725 (2024).
 
-**Abstract**  
-Digital Twin (DT) mimics objects, processes, or systems. Consumer Electronics (CE) in transportation, healthcare, and product quality maintenance benefit from DT visualization and predictive maintenance. However, employing DTs in CE requires precision, multimodal data processing, and zero-shot generalizability for cross-platform compatibility. Advances in Large Language Model (LLM) have revolutionized traditional ML-driven systems by solving complex natural language problems. Motivated by these advancements, we present DefectTwin (DefT), an LLM-integrated DT approach for visual defect inspection in railway components and consumer electronics. DefT uses a multimodal and multimodel (M²) LLM-based AI inferencing pipeline to analyze visual railway defects, achieve precision and zero-shot generalizability, and incorporate a Quality-of-Experience (QoE) feedback loop. The pipeline generates synthetic datasets to fine-tune LLMs, enabling context enforcement for multimodal decoders. DefT also includes a multimodal processor unit for advanced visualization of defect characteristics, such as mapping defect textures onto 3D models. Users interact with DefT through a multimodal interface, consuming the outcomes of information and predictive twins for defect analysis and predictive simulation. We achieved a precision of 0.93 for in-domain image defect identification in DefectTwin (DefT), which outperformed current models through rigorous testing on data from the Canadian Pacific Railway (CPR) and open-source. DefT also demonstrated proficient performance for text, image, and video stream evaluations. To the best extent of our knowledge, DefectTwin is the first LLM-integrated DT for railway defect inspection. We anticipate that DefT paves the way for integrating LLM-based DT in CE, enhancing interoperability, efficiency, cost reduction, and proactive maintenance across diverse applications.
 
-**Keywords**: Digital Twin, Large Language Models, Consumer Electronics, Visual Railway Defect Inspection, Predictive Maintenance, Multimodal Data Processing, Zero-shot Generalizability, Quality-of-Experience Feedback Loop.
+@article{ferdousi2024defecttwin,
+  title={DefectTwin: When LLM Meets Digital Twin for Railway Defect Inspection},
+  author={Ferdousi, Rahatara and Hossain, M Anwar and Yang, Chunsheng and Saddik, Abdulmotaleb El},
+  journal={arXiv preprint arXiv:2409.06725},
+  year={2024}
+}
+
