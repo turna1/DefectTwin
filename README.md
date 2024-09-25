@@ -1,8 +1,6 @@
 # DefectTwin
 
-# DefectTwin
-
-DefT has two main applications:
+It has two main applications:
 1. **deftstudio_app.py**: Provides a way to simulate defects from your prompt or reference images, as well as a general chat function.
 2. **deft_realtime_app.py**: A real-time defect inspection tool using video streams.
 
