@@ -10,7 +10,7 @@ genai.configure(api_key= "YOUR  GEMINI API KEY")
 
 
 # Define the Generative AI model
-model = genai.GenerativeModel('gemini-pro-vision')
+model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
 # Function to capture frames from a video
 def frame_capture(video_path, num_frames=5):
